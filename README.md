@@ -1,5 +1,12 @@
 # GNC_to_the_moon
-In-house developed Guidance, Navigation, and Control software libraries! 
+In-house developed Guidance, Navigation, and Control software libraries!
+
+## Award Winning Project
+Won Georgia State's First Prize on Demo Day 2025.
+
+Submitted Poster:
+![poster image](poster.png)
+There's an entire PDF explaining the training infrastructure that we deployed on Microsoft's Azure. There's still some work in progress. Hardware build was near completion, email `ahlawatvarun312@gmail.com` for the files if you want to continue this opensource project. We believed in one unified control system for all subsystems of any vehicle like rocket is the future. And the best way to envision a future is to build it.
 
 ### 1. Guidance
 This piece of software will be able to calculate optimal trajectories for different missions(both orbital and non-orbital). We will call its final output as the ___desired path___.<br>
